@@ -2,7 +2,7 @@
 To run the program(s):
 * Download the repo
 * Ensure you have C 
-* Run python[x] Database_Project.py, where x can either be "" (nothing) or 3 (python 3)
+* Run gcc PseudocodeToC.c or gcc -o first PseudocodeToC.c 
 * Enjoy!
 
 # About the application 
