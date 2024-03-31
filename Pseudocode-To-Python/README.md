@@ -5,6 +5,12 @@ To run the program(s):
 * Enjoy!
 
 # About the application 
-This C program sorts an array of floating-point numbers using the bubble sort algorithm and computes the median of the sorted array. 
-It offers two testing options: interactive input of the array or using predefined test cases.
+This Python app defines a function sort_and_find_median(numbers) that sorts a list of numbers using the bubble sort algorithm and then calculates the median value. 
+It also includes a helper function sort(numbers) to perform the sorting. The program prompts the user to input a list of numbers separated by spaces, processes the input, calculates the median using the defined functions, and prints the result.
+
+
+
+
+
+
 
